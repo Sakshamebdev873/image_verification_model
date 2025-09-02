@@ -8,7 +8,7 @@ API_URL = "http://127.0.0.1:5000/predict"
 
 # IMPORTANT: Path to the image you want to test.
 # You can now use a .jpg, .png, .webp, or other standard image file here.
-IMAGE_PATH = "image_2.webp" # <-- CHANGE THIS to your file
+IMAGE_PATH = "image_1.webp" # <-- CHANGE THIS to your file
 
 # --- Main Script ---
 if not os.path.exists(IMAGE_PATH):
